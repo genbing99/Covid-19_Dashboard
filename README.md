@@ -11,4 +11,6 @@ In this project, we downloaded the dataset from https://ourworldindata.org/coron
 ## Note
 The dashboard created is using html for design, php for Twitter API, and Javascript for d3 interactive data visualization. Please use XAMPP to reproduce the dashbaord. 
 
+For the Twitter access, please provide your own tokens at js/queryTwitter.php.
+
 If you have any inquiries, please email me, Liong Gen Bing at genbing67@gmail.com or the collaborators, Ngiu Jin Tian Ci (j1nngiu@gmail.com) and Leow Yen Siang (yensiang99@hotmail.com).
